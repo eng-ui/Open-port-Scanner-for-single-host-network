@@ -1,0 +1,30 @@
+===========================================================================
+              OPEN PORT SCANNER - SCAN REPORT
+===========================================================================
+Date/Time   : 2026-06-23 21:16:38
+Scan Type   : Host Scan
+Target      : 192.168.0.112
+Port Range  : 1 - 10000
+Duration    : 51.72 seconds
+===========================================================================
+
+Open Ports on 192.168.0.112:
+
+Port     Protocol     Service            Banner
+---------------------------------------------------------------------------
+81       unknown      hosts2-ns          N/A
+82       unknown      unknown            N/A
+99       FTP          unknown            220 Microsoft FTP Service
+135      MSRPC        epmap              N/A
+139      NetBIOS      netbios-ssn        N/A
+445      SMB          microsoft-ds       N/A
+902      FTP          unknown            220 VMware Authentication Daemon Version 1.10: SSL Required, ServerDaemonProtocol:SOAP, MKSDisplayPr
+912      FTP          unknown            220 VMware Authentication Daemon Version 1.0, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC , , 
+2869     unknown      icslap             N/A
+5040     unknown      unknown            N/A
+7070     unknown      unknown            N/A
+7680     unknown      ms-do              N/A
+
+===========================================================================
+                       END OF REPORT
+===========================================================================
